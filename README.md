@@ -1,2 +1,2 @@
 # hello-world
-his repository is for practicing the GitHub Flow
+I am currently enrolled to get my Master's degree in Cloud Computing.
